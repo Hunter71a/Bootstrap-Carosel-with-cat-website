@@ -8,6 +8,6 @@ advance for the broken link tabs to the other pages, this was just a quick
 implementation that shows a variation on the standard carosel, and in retrospect
 the original carosel image size probably looked better.
 
-Format: ![Screenshot of application]("https://github.com/Hunter71a/Bootstrap-Carosel-with-cat-website/blob/master/img/cat-website-pickles.png")
+![Screenshot of application](/img/cat-website-pickles.png)
 
 
