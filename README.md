@@ -8,10 +8,8 @@ advance for the broken link tabs to the other pages, this was just a quick
 implementation that shows a variation on the standard carosel, and in retrospect
 the original carosel image size probably looked better.
 
-![Screenshot of application](/img/cat-website-pickles.png)
-
 <p align="center">
-  <img width="460" height="300" src="/img/cat-website-pickles.png">
+  <img width="558" height="1024" src="/img/cat-website-pickles.png">
 </p>
 
 
