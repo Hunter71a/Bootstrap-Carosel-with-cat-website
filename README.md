@@ -10,4 +10,8 @@ the original carosel image size probably looked better.
 
 ![Screenshot of application](/img/cat-website-pickles.png)
 
+<p align="center">
+  <img width="460" height="300" src="/img/cat-website-pickles.png">
+</p>
+
 
